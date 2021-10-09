@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.FourInARow.Logic", "Ex05.FourInARow.Login\Ex05.FourInARow.Logic.csproj", "{421E32F1-F98F-4697-A26E-C20B39F62F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.FourInARow.UI", "Ex05.FourInARow.UI\Ex05.FourInARow.UI.csproj", "{62E81AD0-C15E-470F-B9D6-2F810AB31DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421E32F1-F98F-4697-A26E-C20B39F62F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421E32F1-F98F-4697-A26E-C20B39F62F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421E32F1-F98F-4697-A26E-C20B39F62F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421E32F1-F98F-4697-A26E-C20B39F62F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E81AD0-C15E-470F-B9D6-2F810AB31DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E81AD0-C15E-470F-B9D6-2F810AB31DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E81AD0-C15E-470F-B9D6-2F810AB31DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E81AD0-C15E-470F-B9D6-2F810AB31DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49247FB0-2A2A-44FF-8CE2-2136A44D95B1}
+	EndGlobalSection
+EndGlobal
